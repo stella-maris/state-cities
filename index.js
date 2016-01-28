@@ -1,4 +1,4 @@
-var data = require('./data/states').states;
+var states = require('./data/states').states;
 
 //Main Method
 var getCities = function(state){
