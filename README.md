@@ -7,6 +7,7 @@ Give it a U.S. state, and it will give you an array of all the city names in tha
 1. $ npm install state-cities --save
 ```javascript
 var stateCities = require('state-cities');
+```
 
 ## Usage
 
